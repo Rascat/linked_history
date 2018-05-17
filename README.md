@@ -2,4 +2,6 @@
 Repository for the same-named cdvost project
 
 ## Directory Structure
-* data/ -> contains the raw data we want to work with (csv, xml, xls files)
+data/ : contains sqlite database files
+processing/ : contains shell scripts that transform xml or xls files
+bin/ : contains general purpose shell scripts
